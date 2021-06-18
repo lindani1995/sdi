@@ -1,3 +1,3 @@
 # sdi
-waste management services geoportal
+index.html
 https://lindani1995.github.io/sdi/
